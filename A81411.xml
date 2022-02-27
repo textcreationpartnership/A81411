@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dialogue betvveen a Brovvnist and a schismatick. VVherein is discovered the schismaticks endeavour to bring to confusion the government of church and state in this our kingdom of England.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81411</idno>
+            <idno type="STC">Wing D1292</idno>
+            <idno type="STC">Thomason E92_19</idno>
+            <idno type="STC">ESTC R12173</idno>
+            <idno type="EEBO-CITATION">99859229</idno>
+            <idno type="PROQUEST">99859229</idno>
+            <idno type="VID">111299</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81411)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111299)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 16:E92[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dialogue betvveen a Brovvnist and a schismatick. VVherein is discovered the schismaticks endeavour to bring to confusion the government of church and state in this our kingdom of England.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Franklin,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: The "3" on the imprint date is crossed out; "March. 9. 1642".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Government --  Early works to 1800.</term>
+               <term>Brownists --  Early works to 1800.</term>
+               <term>Dissenters, Religious --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:111299:1"/>
+            <pb n="1" facs="tcp:111299:1"/>
+            <head>A DIALOGUE BETWEEN A BROWNIST and a SCHISMATICK.</head>
+            <sp>
+               <speaker>Browniſt.</speaker>
+               <p>
+                  <seg rend="decorInit">W</seg>Ell met holy Brother <hi>Schiſmatick,</hi> I hope our meeting will prove profitable to our own ſelves, the Edification of our Church and de<g ref="char:EOLhyphen"/>ſtruction and rooting out the Papiſticall Doctrine of the Whoriſh and Idolatrous Church of Rome, and formall Proteſtancy little better then Popery, from being any more uſed in <hi>England,</hi> or any of his Majeſties Dominions.</p>
+            </sp>
+            <sp>
+               <speaker>Schiſmatick.</speaker>
+               <p>Thou haſt ſpoken very religiouſly, and haſt manifeſted thy ſelf to be a good Zelot, in the cauſe of righteouſnes, and am I right ioy
+<pb n="2" facs="tcp:111299:2"/>full ſo happily here in this place to meet with you, where I hope we without fear may ſpeak freely of the preſent affairs of State, and of reducing our Religion and manner of worſhipping to its former purity and glory; but to beginne our diſcourſe, how may theſe our pious intentions be effected?</p>
+            </sp>
+            <sp>
+               <speaker>Browniſt.</speaker>
+               <p>Truely brother I conceave no readier and eaſier way to effect this holy worke then to agree in outward appearance, for to pro<g ref="char:EOLhyphen"/>mote Truth and Religion, we may warrantably uſe diſſimulation, as we have many examples in Scripture, <hi>David</hi> diſſembled himſelf for the ſafety of his life to the King of <hi>Lachiſh: Abraham</hi> diſſem<g ref="char:EOLhyphen"/>bled to King <hi>Abimelech,</hi> and taught his wife to lie, for the preſervati<g ref="char:EOLhyphen"/>on of her chaſtity: and <hi>Ioſeph</hi> diſſembled to his brethren, to the end to make them to underſtand their former wickedneſſe committed againſt him: the Harlot <hi>Rachel</hi> hid the ſpies ſent from <hi>Ioſuah</hi> and diſſembled the ſame, with a lie for her excuſe: many ſuch like ex<g ref="char:EOLhyphen"/>amples I might produce, to warrant diſſimulation ſometimes in a good cauſe, for I ſay for the promotion of this <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> holy a work we may joyne our ſelves in league and fraternity with Anabaptiſts, Se<g ref="char:EOLhyphen"/>peratrſts, and when we have accompliſhed our deſires we may ſhake off their ſociety, or indeavour to reduce them to an uniformity with us, being now neereſt us in opinion, of any profeſſion, and ſo may the eaſier be drawn from their opinions that differ from ours.</p>
+            </sp>
+            <sp>
+               <speaker>Schiſmatick.</speaker>
+               <p>Indeed I do approve of thy reſolution, but I conceave it beſt in the firſt place, to ſpeake of the manner and forme of diſcipline and worſhip in Religion, and then they who will agree and ſide with us, ſo ſhall we the better know which is the ſafeſt way to proceed in,
+<pb n="3" facs="tcp:111299:2"/>and firſt let us begin what forme of diſcipline we ſhould have uſed in the exerciſe of our Religion, and what Doctrine is beſt to be re<g ref="char:EOLhyphen"/>ceaved in the Church; and finally, what forme of government is meeteſt to be uſed and eſtabliſhed for the eſtabliſhment thereof, and therefore I pray ſhew thy opinion of the Common Prayer now uſed; and what forme of prayer is meeteſt to be uſed, that may agree with the ſpirit; by which we ought to be directed and in<g ref="char:EOLhyphen"/>ſtructed.</p>
+            </sp>
+            <sp>
+               <speaker>Browniſt.</speaker>
+               <p>Verily brother touching the Common prayer now uſed, it is no wayes to be allowed or received in the Church, being altogether Superſtitious, and Idolatrous, the inventions of men, and not made by the holy ſpirit, but onely inſtituted by Papiſts and Popiſhly af<g ref="char:EOLhyphen"/>fected Prelates.</p>
+            </sp>
+            <sp>
+               <speaker>Schiſmatick.</speaker>
+               <p>I confeſſe great part of the Letany is ſuperfluous and ſuperſtiti<g ref="char:EOLhyphen"/>ous, but I think there be many prayers in the book that were indict<g ref="char:EOLhyphen"/>ed by the Spirit of God, and made by holy men, which were appro<g ref="char:EOLhyphen"/>ved and continually uſed in the time of <hi>Edward</hi> the ſixth and Queen <hi>Elizabeth;</hi> are theſe to be rejected and diſallowed, after the long uſage of the ſame in the Church and not diſallowed in the reign of King <hi>Iames,</hi> in whoſe time many differences and contentions were raiſed about the ſame by the Clergy of thoſe times?</p>
+            </sp>
+            <sp>
+               <speaker>Browniſt.</speaker>
+               <p>The reaſon why a through reformation of the book of Common Prayer hath not yet been admitted to this day, was the great trou<g ref="char:EOLhyphen"/>bles that have been raiſed in this kingdome by the Romiſh faction, after Queen <hi>Mary</hi> moſt part of this kingdom then acknowledging the idolatrous Doctrine of that Antichriſt, and Man of ſinne, the Biſhop of <hi>Rome,</hi> which in all the time of Queen <hi>Elizabeth</hi> could
+<pb n="4" facs="tcp:111299:3"/>not be purged, our Religion being then ſcarce known and altoge<g ref="char:EOLhyphen"/>ther diſliked, and in the time of King <hi>Iames,</hi> the pride and haughti<g ref="char:EOLhyphen"/>neſſe of the Clergy more inclined to Popery then Purity, hindered a through Reformation, although our profeſſion began then to take head and gather ſome ſtrength and approbation in this kingdom, many opinions and tenents that we had being approved of the King himſelf, but now the purity and ſincerity of our religion being accepted and acknowledged in moſt parts of the kingdom eſpecial<g ref="char:EOLhyphen"/>ly in the chief Cities &amp; Corporations thereof, it is our duty to ſtudy a through Reformation in time, leſt we be by the adverſaries of truth and piety ſuppreſſed, and no meanes left for the eſtabliſhing of the ſame; and for thoſe prayers you mentioned, ſome of them may be ſtill retained and uſed in the Church, which I will againſt the next meeting extract from the reſt.</p>
+            </sp>
+            <sp>
+               <speaker>Schiſmatick.</speaker>
+               <p>Enough at this time of the Common Prayer, let me have your opinion touching what Doctrine, now acknowledged in our Church, is meet to be purged, and diſcipline for the exerciſe thereof.</p>
+            </sp>
+            <sp>
+               <speaker>Browniſt.</speaker>
+               <p>That will I do: The Doctrine of Baptiſme with the Croſſe I utterly deny and diſallow, Marriage with a hoop Ring, and the like; but for Diſcipline in the manner of Worſhip, I diſallow the uſe of Surplice, &amp;c. I would have us follow the example of Chriſt in all things as near as we can, and let his example be our rule to walk by; If he taught in the Temples, let us make uſe of Temples and Churches for teaching and inſtruction; if he taught in ſhips upon the ſea, then let it be as warrantable for us to preach and to teach in ſhips as in Churches; if he taught upon the ſand or ſea ſhore, then let it be as lawfull to teach on the ſand as in the ſhip; if he taught on mountains or hils, then let it be as warrantable to preach
+<pb n="5" facs="tcp:111299:3"/>on the top of a hill as on the ſand; if he taught in private houſes, then let it be as lawfull to preach in a houſe or barn as on the top of a hill; if he prayed in the fields or wilderneſſe, then let it be as war<g ref="char:EOLhyphen"/>rantable for us to pray in the fields and wilderneſſe, woods or groves as in Churches, &amp;c. If he choſe Fiſhermen, Mechanick Tradeſmen, or the like, to be his Diſciples and preachers to his people, then let it be as warrantable for us to chuſe Paſtors and tea<g ref="char:EOLhyphen"/>chers that are full of the Spirit, of Fiſhermen, Shoomakers, Hat<g ref="char:EOLhyphen"/>ters, &amp;c. And this is the ſafeſt and trueſt manner of Doctrine and Diſcipline to be received by his example.</p>
+            </sp>
+            <sp>
+               <speaker>Schiſmatick.</speaker>
+               <p>Truely brother I perceive that you are full of the Spirit, I ap<g ref="char:EOLhyphen"/>prove of your Order for Doctrine and Diſcipline, I pray go for<g ref="char:EOLhyphen"/>ward and ſpeak your minde concerning a certain form of Govern<g ref="char:EOLhyphen"/>ment to be eſtabliſhed in this kingdome, for the due and pure ob<g ref="char:EOLhyphen"/>ſervance of this your Doctrine and Diſcipline preſcribed.</p>
+            </sp>
+            <sp>
+               <speaker>Browniſt.</speaker>
+               <p>Indeed brother I hope I ſhall neither ſpeak nor do any thing but as I ſhall be lead and directed by the Spirit, and touching your next requeſt, I conceive it no wayes meet to have any particular Government in the Church, but every man to govern his aſſem<g ref="char:EOLhyphen"/>bly according to his ſpirit, following likewiſe the example of Chriſt to his Apoſtles, when they ſtrived for ſuperiority one over and above another, who reproved them for the ſame, and made them all Governours alike; ſo would I have it that one man might not lord it over his brethren, being all members of one body, and every one permitted to teach in the Church according to the gifts of Propheſie and Revelation, and if any in the Church be prophe<g ref="char:EOLhyphen"/>ſying or preaching, and one that ſtands by hath a clearer gift or re<g ref="char:EOLhyphen"/>velation, he to ſpeak and declare the ſame, and the other that taught before to hold his peace, according to the rule of Saint <hi>Paul,</hi> 1 <hi>Cor.</hi> 14.29, 30, 31. <hi>Let the Prophets ſpeak two or three, and let the other
+<pb n="4" facs="tcp:111299:4"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="5" facs="tcp:111299:4"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="6" facs="tcp:111299:5"/>judge.</hi> 30. <hi>If any thing be revealed to another that ſitteth by, let the firſt hold his peace.</hi> 31. <hi>For ye may all propheſie one by one, that all may be comforted.</hi> So it appears there is no ſupremacy in teachers, all men without degrees, or Univerſity Scholerſhip, if they have the gift and ſpirit of propheſie, may preach and teach the people and are onely to be eſteemed according to the excellency of their gifts and holineſſe of life, let him be of what occupation or profeſſion whatſoever.</p>
+            </sp>
+            <sp>
+               <speaker>Schiſmatick.</speaker>
+               <p>Well brother no more of this. Now let us conſider of the beſt way to effect this intended work of Reformation and eſtabliſhing of our Religion in this kingdome.</p>
+            </sp>
+            <sp>
+               <speaker>Browniſt.</speaker>
+               <p>As I ſaid before, joyne our ſelves for our better advantage in out<g ref="char:EOLhyphen"/>ward appearance, in fraternity with the ſeverall ſects aforemen<g ref="char:EOLhyphen"/>tioned.</p>
+            </sp>
+            <sp>
+               <speaker>Schiſmatick.</speaker>
+               <p>But how if the adverſe party be ſo obſtinate, and the great ones in high places be ſo perverſe that they will by no means agree to our deſire nor conforme themſelves to our Religion,</p>
+            </sp>
+            <sp>
+               <speaker>Browniſt.</speaker>
+               <p>Then is it lawfull to take up Armes and by force eſtabliſh Reli<g ref="char:EOLhyphen"/>gion and bring to condigne puniſhment the oppoſers thereof, cut down the tall Cedars, ſpirituall wickedneſſe in high places, rather then our Religion ſhould be deſtroyed, and Antichriſtianiſme or looſe and formall Proteſtancy be continued in this kingdom, better to puniſh the body by ſtripes then both body and ſoul to periſh by ſinne.</p>
+            </sp>
+            <sp>
+               <speaker>Schiſmatick.</speaker>
+               <p>I well approve all that thou halt ſaid. Let us put in action our in<g ref="char:EOLhyphen"/>tention, and ſo God be with you for this time.</p>
+            </sp>
+            <sp>
+               <speaker>Browniſt.</speaker>
+               <p>And ſo I pray God keep you till our next meeting.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
